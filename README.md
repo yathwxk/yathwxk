@@ -35,23 +35,16 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"       alt="docker"     height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"             alt="git"        height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"         alt="linux"      height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"             alt="gcp" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"         alt="azure"      height="40"/>
 
   <!-- Data / AI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"         alt="sql"        height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"     alt="tableau"    height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"     alt="pytorch"    height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="sklearn" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" height="40"/>
 
-  <!-- Security / Misc -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"     alt="vscode" height="40"/>
-    <img src="https://raw.githubusercontent.com/github/explore/main/topics/metasploit/metasploit.png" height="40" alt="Metasploit"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/burpsuite/burpsuite.png" height="40" alt="Burp Suite"/>
-  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/master/ubuntufonts/wireshark.svg" height="40" alt="Wireshark"/>
-</p>
+  
 
 
 
