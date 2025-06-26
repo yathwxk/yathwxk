@@ -48,8 +48,7 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 
 - 🔍 **Wireshark** – Network protocol analyzer  
 - 🧪 **Burp Suite** – Web application vulnerability scanner  
-- 💥 **Metasploit** – Exploit development and penetration testing framework  
-- 🔐 **OWASP ZAP** – Web application security scanner  
+- 💥 **Metasploit** – Exploit development and penetration testing framework    
 - 🛡️ **Firewalls** – Configuration and policy enforcement  
 - 🌐 **VPNs** – Secure tunneling and remote access  
 - 🧰 **SIEM Tools** – Security Information and Event Management platforms  
