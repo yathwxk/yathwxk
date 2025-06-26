@@ -43,7 +43,23 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"     alt="pytorch"    height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" height="40"/>
 
-  
+  </p>
+  ## 🔐 Security Tools & Technologies
+
+- 🔍 **Wireshark** – Network protocol analyzer  
+- 🧪 **Burp Suite** – Web application vulnerability scanner  
+- 💥 **Metasploit** – Exploit development and penetration testing framework  
+- 🔐 **OWASP ZAP** – Web application security scanner  
+- 🛡️ **Firewalls** – Configuration and policy enforcement  
+- 🌐 **VPNs** – Secure tunneling and remote access  
+- 🧰 **SIEM Tools** – Security Information and Event Management platforms  
+- 🧱 **SQLMap** – Automated SQL injection tool  
+- 🕷️ **Nikto** – Web server vulnerability scanner  
+- 🔦 **Nmap** – Network discovery and port scanning  
+- 🧭 **Gobuster** – Directory and file brute-forcing  
+- 🌐 **WhatWeb** – Website fingerprinting  
+- 📜 **PowerShell / Bash** – Scripting for automation and offensive testing  
+
 
 
 
