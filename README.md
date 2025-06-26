@@ -12,7 +12,7 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 
 ---
 
-## 🛠️ Languages • Frameworks • Tools
+## ⚙️ Tech Stack & Tools
 
 <p align="center">
   <!-- Programming / Scripting -->
@@ -43,15 +43,12 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"     alt="pytorch"    height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" height="40"/>
 
-</p>
-## 📊 GitHub Stats & Languages
+
+## 📊 Languages Used
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathwxk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-
-
-
 
 
 
