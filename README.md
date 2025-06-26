@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi there! I'm Yathwik A Shetty
 
-<!--
-**yathwxk/yathwxk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Undergraduate (Cybersecurity Focus)**  
+💻 **Ramaiah Institute of Technology, Bangalore**  
+🔐 **Cybersecurity | AI/ML | Full-Stack Development**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm a cybersecurity-focused Computer Science undergrad passionate about protecting systems, data, and networks. Whether it's designing secure architectures, building AI-driven tools, or diving deep into VAPT and automation — I'm driven by solving real-world security challenges through innovation and continuous learning.
+
+---
+
+## 🛠️ Tech Stack
+
+- **Languages:** Python, Bash, PowerShell, JavaScript, C/C++, Java  
+- **Web:** HTML, CSS, React.js, Node.js, REST APIs  
+- **DevOps & Cloud:** Git, Docker, CI/CD, Linux, AWS, GCP, Azure  
+- **Data & AI:** SQL, Excel, Tableau, Matplotlib, PyTorch, scikit-learn, D3.js  
+- **Cybersecurity:** Nmap, SQLMap, Wireshark, SIEM, Firewalls, VPNs  
+- **Tools:** VS Code, FastAPI, Flask, NetworkX  
+
+
+## 🏅 GitHub Trophies
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=yathwxk&theme=darkhub&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## 🌐 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yathwik-shetty21)  
+📸 Instagram: [@yathwxk](https://www.instagram.com/yathwxk)  
+👨‍💻 GitHub: [github.com/yathwxk](https://github.com/yathwxk)
+
+---
+
+_“Security is not a product, but a process — and I’m here to build both.”_
