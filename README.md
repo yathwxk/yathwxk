@@ -12,16 +12,51 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Languages • Frameworks • Tools
 
-- **Languages:** Python, Bash, PowerShell, JavaScript, C/C++, Java  
-- **Web:** HTML, CSS, React.js, Node.js, REST APIs  
-- **DevOps & Cloud:** Git, Docker, CI/CD, Linux, AWS, GCP, Azure  
-- **Data & AI:** SQL, Excel, Tableau, Matplotlib, PyTorch, scikit-learn, D3.js  
-- **Cybersecurity:** Nmap, SQLMap, Wireshark, SIEM, Firewalls, VPNs  
-- **Tools:** VS Code, FastAPI, Flask, NetworkX  
+<p align="center">
+  <!-- Programming / Scripting -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"       alt="python"     height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"           alt="bash"       height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="powershell" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="javascript" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"                 alt="c"          height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="cpp"        height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"           alt="java"       height="40"/>
+
+  <!-- Web -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"         alt="html5"      height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"           alt="css3"       height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"         alt="react"      height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"       alt="nodejs"     height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"     alt="express"    height="40"/>
+
+  <!-- Cloud / DevOps -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"       alt="docker"     height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"             alt="git"        height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"         alt="linux"      height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg"             alt="gcp" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg"         alt="azure"      height="40"/>
+
+  <!-- Data / AI -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"         alt="sql"        height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg"     alt="tableau"    height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"     alt="pytorch"    height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="sklearn" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" height="40"/>
+
+  <!-- Security / Misc -->
+  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/master/ubuntufonts/wireshark.svg" alt="wireshark" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"     alt="vscode" height="40"/>
+</p>
 
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yathwxk&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
+</p>
 
 ## 🌐 Let's Connect
 
