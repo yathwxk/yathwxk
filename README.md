@@ -22,11 +22,6 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 - **Tools:** VS Code, FastAPI, Flask, NetworkX  
 
 
-## 🏅 GitHub Trophies
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=yathwxk&theme=darkhub&margin-w=10&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🌐 Let's Connect
 
@@ -36,4 +31,3 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 
 ---
 
-_“Security is not a product, but a process — and I’m here to build both.”_
