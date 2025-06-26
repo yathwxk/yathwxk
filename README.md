@@ -41,7 +41,6 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
   <!-- Data / AI -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"         alt="sql"        height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"     alt="pytorch"    height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikit-learn/scikit-learn-original.svg" alt="sklearn" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" height="40"/>
 
   
