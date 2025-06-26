@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Yathwik A Shetty
 
-🎓 **Computer Science Undergraduate (Cybersecurity Focus)**  
+🎓 **Computer Science Undergraduate**  
 💻 **Ramaiah Institute of Technology, Bangalore**  
 🔐 **Cybersecurity | AI/ML | Full-Stack Development**
 
