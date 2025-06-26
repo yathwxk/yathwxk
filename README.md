@@ -49,9 +49,7 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathwxk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yathwxk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
+
 
 
 
