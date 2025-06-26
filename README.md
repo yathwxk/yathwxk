@@ -50,6 +50,9 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yathwxk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
+## 📄 Resume
+
+[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=readthedocs)](https://github.com/yathwxk/yathwxk/blob/main/resume.pdf?raw=true)
 
 
 ## 🌐 Let's Connect
