@@ -52,7 +52,7 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=readthedocs)](https://github.com/yathwxk/yathwxk/blob/main/resume.pdf?raw=true)
+[![Resume](https://img.shields.io/badge/Download%20PDF-blue?style=for-the-badge&logo=readthedocs)](https://github.com/yathwxk/yathwxk/blob/main/resume.pdf?raw=true)
 
 
 ## 🌐 Let's Connect
