@@ -44,7 +44,7 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" height="40"/>
 
   </p>
-  ## 🔐 Security Tools & Technologies
+ 🔐 Security Tools & Technologies
 
 - 🔍 **Wireshark** – Network protocol analyzer  
 - 🧪 **Burp Suite** – Web application vulnerability scanner  
