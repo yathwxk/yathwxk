@@ -47,16 +47,13 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3" height="40"/>
 
   <!-- Security / Misc -->
-  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/master/ubuntufonts/wireshark.svg" alt="wireshark" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"     alt="vscode" height="40"/>
+    <img src="https://raw.githubusercontent.com/github/explore/main/topics/metasploit/metasploit.png" height="40" alt="Metasploit"/>
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/burpsuite/burpsuite.png" height="40" alt="Burp Suite"/>
+  <img src="https://raw.githubusercontent.com/rahul-jha98/README_icons/master/ubuntufonts/wireshark.svg" height="40" alt="Wireshark"/>
 </p>
 
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yathwxk&theme=darkhub&no-frame=true&margin-w=10" alt="GitHub Trophies"/>
-</p>
 
 ## 🌐 Let's Connect
 
