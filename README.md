@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Yathwik A Shetty
+# Hi there! I'm Yathwik A Shetty
 
 🎓 **Computer Science Undergraduate**  
 💻 **Ramaiah Institute of Technology, Bangalore**  
