@@ -56,8 +56,9 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/yathwik-shetty21)   
-📬 Email: [yathwikshetty21@gmail.com](mailto:yathwikshetty21@gmail.com)
+📬 Email: [yathwikshetty21@gmail.com](mailto:yathwikshetty21@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/yathwik-shetty21](https://www.linkedin.com/in/yathwik-shetty21)
+
 
 ---
 
