@@ -51,7 +51,7 @@ I'm a cybersecurity-focused Computer Science undergrad passionate about protecti
 
 ## 📄 Resume
 
-[![Resume](https://img.shields.io/badge/View%20Resume%20(PDF)-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1JRYu1g2-acDdJ3oxg0t6sl5K2JalIEpr/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/View%20Resume%20(PDF)-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1f60goBAGYa-aKoJmL-_UL98CyW7epSSi/view?usp=sharing)
 
 
 ## 🌐 Let's Connect
